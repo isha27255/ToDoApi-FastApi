@@ -27,6 +27,8 @@ Route: POST /add
 Input: Todo item details in request body
 Output: Newly created todo item
 
+![CREATE](./images/home.png)
+
 Read (Get a list of todo items or a single todo item):
 
 Route: GET /
