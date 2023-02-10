@@ -47,3 +47,6 @@ Output: Success or error message
 ```
 ### Authentication
 We have implemented OAuth2 security in our FastAPI application to ensure secure access to the Todo List API. 
+
+To access the API we have to create a new user and generate token for that user. And then the other routes which are protected will get 
+authenticated. 
